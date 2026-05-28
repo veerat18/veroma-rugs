@@ -1,0 +1,10 @@
+/* VEROMA RUGS Global Stylesheet */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: #0d0b09;
+}
